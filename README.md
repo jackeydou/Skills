@@ -49,6 +49,7 @@ See the [CLI reference](https://github.com/vercel-labs/skills#options) for suppo
 | Skill | Description |
 | --- | --- |
 | [align-terminology](skills/align-terminology/SKILL.md) | Align project terms, abbreviations, and internal jargon. Clarify ambiguous concepts with the user, maintain a glossary, and add its reference to `AGENTS.md`. Defaults to `GLOSSARY.md` at the target project's root unless the user chooses another location. |
+| [explain-it-to-me](skills/explain-it-to-me/SKILL.md) | Learn a project, codebase, or concept with plain explanations inspired by ASD-STE100, diagrams or images, detailed worked examples, and curated articles and videos. |
 
 The glossary uses a term index and concept entries with definitions, scope, boundaries, examples, evidence, and confirmation status. See the [terminology format specification](skills/align-terminology/references/terminology-format.md).
 
